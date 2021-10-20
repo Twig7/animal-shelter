@@ -1,4 +1,4 @@
-.column {
+.column1 {
   width: auto;
   float: left;
 }
@@ -16,3 +16,22 @@
   width: fit-content;
   padding-top: 0%;
 }
+
+.column2 {
+  width: auto;
+  float: right;
+}
+
+.pingpong {
+  border: 2px solid #2c4615;
+  width: fit-content;
+  padding-top: 0%;
+  position: relative;
+  top: -5px;
+  }
+
+  .madampebbles {
+    border: 2px solid #a60f01;
+    width: fit-content;
+    padding-top: 0%;
+  }

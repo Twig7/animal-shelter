@@ -7,4 +7,12 @@
   border: 2px solid #6dc6d2;
   width: fit-content;
   padding-top: 0%;
+  position: relative;
+  top: -5px;
+}
+
+.leon {
+  border: 2px solid #eeb93e;
+  width: fit-content;
+  padding-top: 0%;
 }
